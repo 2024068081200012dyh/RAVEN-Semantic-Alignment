@@ -3,7 +3,6 @@
 Official implementation of the paper:  
 **"Region-Aware Semantic Alignment for Efficient Open-Vocabulary Visual Detection"** Submitted to *The Visual Computer*.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ---
