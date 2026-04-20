@@ -1,0 +1,19 @@
+name: raven_env
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch>=2.0.0
+  - torchvision
+  - cudatoolkit=11.8
+  - numpy
+  - matplotlib
+  - pyyaml
+  - pip
+  - pip:
+      - pycocotools
+      - opencv-python
+      - scipy
+      - onnx  # For deployment analysis mentioned by the editor
